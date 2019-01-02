@@ -21,4 +21,3 @@ batch_badge_creator(array).each do |thing|
 end
 puts assign_rooms(array)
 end
-end
