@@ -22,3 +22,4 @@ end
 puts assign_rooms(array).each do |thing2|
   puts thing2
 end
+end
