@@ -15,9 +15,8 @@ def assign_rooms(array)
 end
 
 def printer(array)
-  amt = 0
- loop do 
-   if amt < array.size
+  batch_badge_creator(array)
+  assign_rooms(array)
      
   
 end
